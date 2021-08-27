@@ -15,7 +15,7 @@ line-height: 1.3rem;
 const Ptext = ({children}) => {
     
     return (
-        <PStyle>
+        <PStyle className='para'>
             <p>{children}</p>
         </PStyle>
     )
