@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.afd7172b.chunk.css",
+    "main.js": "/Portfolio-React/static/js/main.e863f8bb.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.e863f8bb.chunk.js.map",
+    "runtime-main.js": "/Portfolio-React/static/js/runtime-main.393689f6.js",
+    "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.393689f6.js.map",
+    "static/css/2.bd68a332.chunk.css": "/Portfolio-React/static/css/2.bd68a332.chunk.css",
+    "static/js/2.5c56668f.chunk.js": "/Portfolio-React/static/js/2.5c56668f.chunk.js",
+    "static/js/2.5c56668f.chunk.js.map": "/Portfolio-React/static/js/2.5c56668f.chunk.js.map",
+    "index.html": "/Portfolio-React/index.html",
+    "static/css/2.bd68a332.chunk.css.map": "/Portfolio-React/static/css/2.bd68a332.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/Portfolio-React/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.5c56668f.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.5c56668f.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/Portfolio-React/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/Portfolio-React/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/Portfolio-React/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/aboutImg.c7870f55.png": "/Portfolio-React/static/media/aboutImg.c7870f55.png",
+    "static/media/arrow.37c411bb.png": "/Portfolio-React/static/media/arrow.37c411bb.png",
+    "static/media/map.eeb6c37b.png": "/Portfolio-React/static/media/map.eeb6c37b.png",
+    "static/media/perfil.59801cf8.png": "/Portfolio-React/static/media/perfil.59801cf8.png",
+    "static/media/perfil1.3d4670ec.png": "/Portfolio-React/static/media/perfil1.3d4670ec.png",
+    "static/media/proyect2.4871135b.PNG": "/Portfolio-React/static/media/proyect2.4871135b.PNG",
+    "static/media/proyecto1.c5dc4a2f.PNG": "/Portfolio-React/static/media/proyecto1.c5dc4a2f.PNG",
+    "static/media/proyecto3.f3513ddf.PNG": "/Portfolio-React/static/media/proyecto3.f3513ddf.PNG",
+    "static/media/proyecto4.90b0cdb4.PNG": "/Portfolio-React/static/media/proyecto4.90b0cdb4.PNG",
+    "static/media/proyecto5.eec3936c.PNG": "/Portfolio-React/static/media/proyecto5.eec3936c.PNG",
+    "static/media/proyecto6.adf7a3b2.PNG": "/Portfolio-React/static/media/proyecto6.adf7a3b2.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.393689f6.js",
+    "static/css/2.bd68a332.chunk.css",
+    "static/js/2.5c56668f.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.e863f8bb.chunk.js"
+  ]
+}
