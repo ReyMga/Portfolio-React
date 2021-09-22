@@ -1,0 +1,38 @@
+Entrevista tecnica DataArc
+
+//##################################Ejercicio 1#######################################
+Hacer una funcion que ingresado un valor devuelva su cuadrado y que ademas memorice el calculo de valores ingresados anteriormente
+
+//Ejemplos
+const valor1 = memo(5); //25
+const valor2 = memo(4); //16
+const valor3 = memo(5); //25  No tiene que hacer el calculo
+
+const arrMemo = [];
+function memo(value){
+	resultMemorized = arrMemo.find(x=>x.value === value)?.result;
+	if(resultMemorized){
+		return resultMemorized;
+	}
+	
+	//Si el valor no esta en mi array entonces calculo el valor y lo guardo en el array, para futuros calculos del mismo valor. 
+	console.log('Calc value')
+	const result = value*value;
+	arrMemo.push({value, result})
+	return result; 
+}
+
+
+//##################################Ejercicio 2#######################################
+Hacer una function que cuando tengamos un array coloquemos array.duplicate() y duplique el array
+
+const arr = [1,2,3];
+arr.duplicate() // [1,2,3,1,2,3]
+
+Array.prototype.duplicate = duplicate;
+
+//No se puede usar arrow function porque la arrow no tiene constructor por lo tanto no tiene this, this va a ser el array.
+function duplicate(){
+	const result = [...this, ...this];
+	return result.flat(); 
+}
